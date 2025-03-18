@@ -40,8 +40,8 @@ This project analyzes the **2011 Indian Census dataset**, covering various demog
 📂 **Indian_Census_2011_Analysis**
 │── 📄 **README.md**  *(Project Documentation)*
 │── 📄 **data**  *(Dataset folder)*
-│── 📄 **images**  *(Visualizations - Matplotlib/Seaborn plots)*
-│── 📄 **analysis.ipynb**  *(Jupyter Notebook with full analysis)*
+│── 📄 **Indian Census Data Analysis**  *(Visualizations - Matplotlib/Seaborn plots)*
+│── 📄 **Indian Census..ipynb**  *(Jupyter Notebook with full analysis)*
 
 ## 🚀 How to Run the Notebook
 1. Clone the repository:
