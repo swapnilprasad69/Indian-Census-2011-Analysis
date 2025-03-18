@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes the **2011 Indian Census dataset**, covering various demographic parameters such as population, literacy rate, workforce participation, and religion distribution.
 
-## 📊 Dataset Details
+## Dataset Details
 - **Total Population**: 1,210,854,977 (as per Census 2011)
 - **Number of States/UTs**: 35
 - **Number of Districts**: 640
